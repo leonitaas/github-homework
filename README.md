@@ -10,9 +10,14 @@ This repository was created for Homework #1 to demonstrate practical usage of Gi
 - Simulated a lost commit and recovered it using Git tools
 - Created a branch `recovered-commit` from the recovered commit
 - Defined a custom Git alias for clearer commit history visualization
-    `git log --oneline --graph --decorate --all`
 - Tagged the cleaned version of the project as `v1.0`
 - Pushed the repository to GitHub
+
+## Commit History Visualization
+
+Below is the commit graph of the repository
+
+![Commit History](git-alias.png)
 
 ## Tools
 - Git
